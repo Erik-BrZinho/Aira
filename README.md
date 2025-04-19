@@ -83,7 +83,7 @@ Futuramente, poderá ser oferecido como assistente pessoal, terapeuta digital, o
 ## 📫 Contato / Acompanhamento
 
 - GitHub: [github.com/seuusuario/AIRA](https://github.com/seuusuario/AIRA)
-- Email: **(adicionar quando quiser ou usar só para parceiros)**
+- Email: **(airaprojec1@gmail.com)**
 - Página futura: *(em construção)*
 
 ---
@@ -177,7 +177,7 @@ In the future, it may be offered as a personal assistant, digital therapist, or 
 ## 📫 Contact / Follow-up
 
 - GitHub: [github.com/yourusername/AIRA](https://github.com/yourusername/AIRA)
-- Email: **(add when you want or use only for partners)**
+- Email: **(airaprojec1@gmail.com)**
 - Future page: *(under construction)*
 
 ---
